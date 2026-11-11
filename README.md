@@ -10,7 +10,7 @@ This repository only holds the release files. Pandia's source code is private.
 | Computer | File |
 |---|---|
 | Windows 10 or 11 | [Install-Pandia.cmd](https://github.com/MOYAE/pandia-releases/releases/download/dev-latest/Install-Pandia.cmd), [install.ps1](https://github.com/MOYAE/pandia-releases/releases/download/dev-latest/install.ps1) and [pandia-windows-x64.tar.gz](https://github.com/MOYAE/pandia-releases/releases/download/dev-latest/pandia-windows-x64.tar.gz) |
-| Mac (Apple silicon) | Ask Moyae for the installer package (not built automatically yet) |
+| Mac (Apple silicon) | [Pandia.pkg](https://github.com/MOYAE/pandia-releases/releases/download/dev-latest/Pandia.pkg) |
 | Linux (x64) | [pandia-linux-x64.tar.gz](https://github.com/MOYAE/pandia-releases/releases/download/dev-latest/pandia-linux-x64.tar.gz) |
 
 These links always give the newest development build, which works with Jupiter's test environment. Every version
